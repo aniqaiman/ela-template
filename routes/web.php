@@ -11,8 +11,8 @@
 |
 */
 
-Route::get('/', ['as' => 'welcome','uses' => 
+Route::get('/', ['as' => 'home','uses' => 
 	function () {
-	return view('welcome');
+	return view('home');
 }]);
 
