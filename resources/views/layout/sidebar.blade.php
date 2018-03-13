@@ -1,4 +1,4 @@
-<!-- SIDEBAR -->
+SIDEBAR -->
 
         <!-- Left Sidebar  -->
         <div class="left-sidebar">
@@ -102,13 +102,13 @@
                                 </li>
                             </ul>
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-map-marker"></i><span class="hide-menu">Maps</span></a>
+                        <!-- <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-map-marker"></i><span class="hide-menu">Maps</span></a>
                             <ul aria-expanded="false" class="collapse">
                                 <li><a href="map-google.html">Google</a></li>
                                 <li><a href="map-vector.html">Vector</a></li>
                             </ul>
-                        </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-level-down"></i><span class="hide-menu">Multi level dd</span></a>
+                        </li> -->
+                        <!-- <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-level-down"></i><span class="hide-menu">Multi level dd</span></a>
                             <ul aria-expanded="false" class="collapse">
                                 <li><a href="#">item 1.1</a></li>
                                 <li><a href="#">item 1.2</a></li>
@@ -122,11 +122,11 @@
                                 </li>
                                 <li><a href="#">item 1.4</a></li>
                             </ul>
-                        </li>
+                        </li> -->
                     </ul>
                 </nav>
                 <!-- End Sidebar navigation -->
             </div>
             <!-- End Sidebar scroll-->
         </div>
-        <!-- End Left Sidebar  -->
+        <!-- End Left Sidebar 

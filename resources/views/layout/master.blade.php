@@ -114,19 +114,19 @@
 
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="card">
+                        <!-- <div class="card">
                             <div class="card-title">
                                 <h4>Sales</h4>
                             </div>
                             <div class="sales-chart">
                                 <div class="ct-bar-chart" style="height:350px"></div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- /# card -->
                     </div>
                     <!-- /# column -->
                     <div class="col-lg-6">
-                        <div class="card">
+                        <!-- <div class="card">
                             <div class="card-title">
                                 <h4>Visitor in Device</h4>
                             </div>
@@ -175,12 +175,12 @@
                                     </table>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="card nestable-cart">
+                        <!-- <div class="card nestable-cart">
                             <div class="card-title">
                                 <h4>World Map</h4>
 
@@ -188,15 +188,15 @@
                             <div class="datamap">
                                 <div id="world-datamap"></div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-lg-6">
-                        <div class="card">
+                        <!-- <div class="card">
                             <div class="card-block">
                                 <h4 class="card-title">Visitor</h4>
                                 <div class="ct-svg-chart" style="height:420px"></div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <!-- /# column -->
                 </div>
@@ -205,7 +205,7 @@
                 <div class="row">
 
                     <div class="col-lg-4">
-                        <div class="card">
+                        <!-- <div class="card">
                             <div class="card-title">
                                 <h4>Project</h4>
                             </div>
@@ -325,11 +325,11 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <!-- /# column -->
                     <div class="col-lg-4">
-                        <div class="card">
+                        <!-- <div class="card">
                             <div class="card-title">
                                 <h4>Messages</h4>
                             </div>
@@ -377,10 +377,10 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-lg-4">
-                        <div class="card">
+                        <!-- <div class="card">
                             <div class="card-title">
                                 <h4>Todo</h4>
                             </div>
@@ -417,7 +417,7 @@
                                     <input type="text" class="tdl-new form-control" placeholder="Type here">
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
 
                 </div>
@@ -426,11 +426,12 @@
                 <!-- End PAge Content -->
             </div>
             <!-- End Container fluid  -->
-            <!-- footer -->
-            <footer class="footer"> © 2018 All rights reserved. Template designed by <a href="https://colorlib.com">Colorlib</a></footer>
-            <!-- End footer -->
+            
         </div>
         <!-- End Page wrapper  -->
+        <!-- footer -->
+            <footer class="footer"> © 2018 All rights reserved. Template designed by <a href="https://colorlib.com">Colorlib</a></footer>
+            <!-- End footer -->
     </div>
     <!-- End Wrapper -->
         @include('layout.sidebar')
