@@ -3,7 +3,7 @@
     <nav class="navbar top-navbar navbar-expand-md navbar-light">
         <!-- Logo -->
         <div class="navbar-header">
-            <a class="navbar-brand" href="/">
+        <a class="navbar-brand" href="#">
                 <!-- Logo icon -->
                 <b><img style="width: 25%" src="images/download.png" alt="homepage" class="dark-logo" /></b>
                 <!-- <b><a href="/">CertifyMy-Sales-Portal</a></b> -->
